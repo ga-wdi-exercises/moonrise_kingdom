@@ -1,1 +1,1 @@
-http://ga-dc.github.io/moonrise_kingdom/
+http://ga-wdi-exercises.github.io/moonrise_kingdom/
